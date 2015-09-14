@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arrested DevOps</title>
+    <link>http://arresteddevops.github.io/</link>
+    <description>Recent content on Arrested DevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2015 13:00:13 -0500</lastBuildDate>
+    <atom:link href="http://arresteddevops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ChatOps Extravaganza</title>
+      <link>http://arresteddevops.github.io/episode/chatops/</link>
+      <pubDate>Mon, 14 Sep 2015 13:00:13 -0500</pubDate>
+      
+      <guid>http://arresteddevops.github.io/episode/chatops/</guid>
+      <description>&lt;p&gt;Matt and Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss chatops.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>http://arresteddevops.github.io/post/second/</link>
+      <pubDate>Tue, 01 Sep 2015 22:10:30 -0500</pubDate>
+      
+      <guid>http://arresteddevops.github.io/post/second/</guid>
+      <description>&lt;p&gt;my second post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://arresteddevops.github.io/post/first/</link>
+      <pubDate>Tue, 01 Sep 2015 22:10:19 -0500</pubDate>
+      
+      <guid>http://arresteddevops.github.io/post/first/</guid>
+      <description>&lt;p&gt;my first post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://arresteddevops.github.io/about/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://arresteddevops.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;about-us:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;about us&lt;/h2&gt;
+
+&lt;p&gt;i&amp;rsquo;m speechless&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
