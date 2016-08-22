@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Arrested DevOps</title>
+    <atom:link href="https://www.arresteddevops.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.arresteddevops.com</link>
+    <lastBuildDate>Fri, 9 Oct 2015 23:04:49 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-us</language>
+    <copyright>Copyright 2014-2016 Arrested DevOps</copyright>
+    <itunes:subtitle>There's always DevOps in the Banana Stand</itunes:subtitle>
+    <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+    <itunes:summary>Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.</itunes:summary>
+    <description>Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and business for maximum DevOps awesomeness.</description>
+    <itunes:owner>
+    <itunes:name>Matt Stratton</itunes:name>
+    <itunes:email>matt.stratton@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    
+    <item>
+      <title>Application Configuration With Tim Gross And Adam Jacob - ADO69</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt and Bridget chat with Tim Gross (Joyent) and Adam Jacob (Chef) about configuration that travels with the application, diving into Habitat and ContainerPilot.</itunes:summary>
+      <description>Matt and Bridget chat with Tim Gross (Joyent) and Adam Jacob (Chef) about configuration that travels with the application, diving into Habitat and ContainerPilot.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode069.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode069.mp3</guid>
+      <link>/application-configuration/</link>
+      <pubDate>Mon, 01 Aug 2016 07:55:48 -0500 </pubDate>
+      <itunes:duration>1:09:12</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Devopsdays Minneapolis 2016 - ADO68</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Bridget chats about enterprise transformation and the democratizing effect of platforms with guests Charity Majors, Nicole Forsgren, Andrew Clay Shafer, and James Watters, in front of a live studio audience at devopsdays Minneapolis 2016.</itunes:summary>
+      <description>Bridget chats about enterprise transformation and the democratizing effect of platforms with guests Charity Majors, Nicole Forsgren, Andrew Clay Shafer, and James Watters, in front of a live studio audience at devopsdays Minneapolis 2016.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode068.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode068.mp3</guid>
+      <link>/devopsdays-minneapolis-2016/</link>
+      <pubDate>Sat, 30 Jul 2016 07:55:48 -0500 </pubDate>
+      <itunes:duration>1:06:59</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>ChefConf 2016 With Jon Cowie, Fletcher Nichol, And Annie Hedgpeth - ADO67</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Recorded at ChefConf 2016 in Austin, Texas, with delightful guests Annie Hedgpeth, Fletcher Nichol, and Jon Cowie. We talk about all the new hotness of Habitat and Chef Automate, as well as cover the experiences of five years span of ChefConf attendee experience. Plus, Trevor throws shade at &#39;DevOps 2.0&#39;.</itunes:summary>
+      <description>Recorded at ChefConf 2016 in Austin, Texas, with delightful guests Annie Hedgpeth, Fletcher Nichol, and Jon Cowie. We talk about all the new hotness of Habitat and Chef Automate, as well as cover the experiences of five years span of ChefConf attendee experience. Plus, Trevor throws shade at &#39;DevOps 2.0&#39;.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode067.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode067.mp3</guid>
+      <link>/chefconf-2016/</link>
+      <pubDate>Tue, 26 Jul 2016 20:55:48 -0500 </pubDate>
+      <itunes:duration>52:43</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>CareerOps With Jill Jubinski And Peter Burkholder - ADO66</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Oh no! You&#39;ve been laid off. How can you bounce back? Jill Jubinski and Peter Burkholder help guide you through returning to the good fight of gainful employment.</itunes:summary>
+      <description>Oh no! You&#39;ve been laid off. How can you bounce back? Jill Jubinski and Peter Burkholder help guide you through returning to the good fight of gainful employment.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode066.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode066.mp3</guid>
+      <link>/career-ops/</link>
+      <pubDate>Thu, 14 Jul 2016 13:34:26 -0500 </pubDate>
+      <itunes:duration>1:12:50</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Finding Signal In The Noise, With Aneel Lakhani And Jason Dixon - ADO65</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Bridget and Matt (in his triumphant return) chat with Aneel Lakhani (SignalFX) and Jason Dixon about modern monitoring, alerting, event streams, and more.</itunes:summary>
+      <description>Bridget and Matt (in his triumphant return) chat with Aneel Lakhani (SignalFX) and Jason Dixon about modern monitoring, alerting, event streams, and more.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode065.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode065.mp3</guid>
+      <link>/finding-signal-in-the-noise/</link>
+      <pubDate>Sun, 05 Jun 2016 13:36:25 -0400 </pubDate>
+      <itunes:duration>56:26</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Devopsdays Toronto 2016 - ADO64</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Bridget goes to devopsdays Toronto, eh, and chats with speaker Sean Walberg (NFL), sponsor Sarah Kowalik (PagerDuty), and local organizers Steve Pereira (Statflo) and Dave Cliffe (PagerDuty). Special guest appearance by ADO editor and devopsdays Minneapolis organizer Joe Laha.</itunes:summary>
+      <description>Bridget goes to devopsdays Toronto, eh, and chats with speaker Sean Walberg (NFL), sponsor Sarah Kowalik (PagerDuty), and local organizers Steve Pereira (Statflo) and Dave Cliffe (PagerDuty). Special guest appearance by ADO editor and devopsdays Minneapolis organizer Joe Laha.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode064.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode064.mp3</guid>
+      <link>/devopsdays-toronto-2016/</link>
+      <pubDate>Sat, 28 May 2016 13:36:25 -0400 </pubDate>
+      <itunes:duration>41:01</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Containers And Security With Ben Hughes And Jessie Frazelle - ADO63</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Bridget chats with lovable reprobate/returning guest Ben Hughes (Etsy) and badass container expert Jessie Frazelle (Mesosphere) about everyone&#39;s favorite topic: security.</itunes:summary>
+      <description>Bridget chats with lovable reprobate/returning guest Ben Hughes (Etsy) and badass container expert Jessie Frazelle (Mesosphere) about everyone&#39;s favorite topic: security.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode063.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode063.mp3</guid>
+      <link>/containers-security/</link>
+      <pubDate>Thu, 12 May 2016 18:16:10 -0500 </pubDate>
+      <itunes:duration>55:55</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Speaking At Conferences With Katherine Daniels - ADO62</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Speaking at tech conferences: how do you get started? What should you expect? Katherine Daniels of Etsy (author, engineer, and frequent public speaker) chats with Bridget, offering insights about speaking at conferences.</itunes:summary>
+      <description>Speaking at tech conferences: how do you get started? What should you expect? Katherine Daniels of Etsy (author, engineer, and frequent public speaker) chats with Bridget, offering insights about speaking at conferences.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode062.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode062.mp3</guid>
+      <link>/speaking/</link>
+      <pubDate>Sat, 16 Apr 2016 17:14:10 -0500 </pubDate>
+      <itunes:duration>1:06:06</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Who Owns Your Availability? With Charity Majors And Pete Cheslock - ADO61</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Who owns your availability? Recent events in the npm community have rekindled the perennial discussion about dependency management and controlling points of potential failure. Long-time operations professionals Charity Majors (Hound) and Pete Cheslock (Threat Stack) join the ADO crew to discuss.</itunes:summary>
+      <description>Who owns your availability? Recent events in the npm community have rekindled the perennial discussion about dependency management and controlling points of potential failure. Long-time operations professionals Charity Majors (Hound) and Pete Cheslock (Threat Stack) join the ADO crew to discuss.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode061.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode061.mp3</guid>
+      <link>/availability/</link>
+      <pubDate>Fri, 25 Mar 2016 15:47:22 -0500 </pubDate>
+      <itunes:duration>01:06:43</itunes:duration>
+      
+        <itunes:explicit>yes</itunes:explicit>
+      
+    </item>
+    
+    <item>
+      <title>Building Your Personal Brand With Andrea Javor And Michael Hedgpeth - ADO60</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Want to be a change agent inside your organization? Your &#34;personal brand&#34; is a critical factor in your success. Being considered relevant both inside and outside of your organization gives weight to your opinions and recommendations, and will directly influence the impact you have. Guests Andrea Javor (Beam Suntory) and Michael Hedgpeth (NCR) discuss methods on growing your brand, without self-aggrandizing boasts or claims of &#34;thought leadership&#34;.</itunes:summary>
+      <description>Want to be a change agent inside your organization? Your &#34;personal brand&#34; is a critical factor in your success. Being considered relevant both inside and outside of your organization gives weight to your opinions and recommendations, and will directly influence the impact you have. Guests Andrea Javor (Beam Suntory) and Michael Hedgpeth (NCR) discuss methods on growing your brand, without self-aggrandizing boasts or claims of &#34;thought leadership&#34;.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode060.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode060.mp3</guid>
+      <link>/personal-brand/</link>
+      <pubDate>Wed, 23 Mar 2016 00:45:53 -0500 </pubDate>
+      <itunes:duration>1:10:25</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Getting Down With GitLab With Job Van Der Voort - ADO59</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>GitLab&#39;s VP of Product, Job van der Voort, joins Matt for a frank discussion on GitLab&#39;s open company culture, the history of the project, and some of the challenges and benefits of working &#34;in the open&#34;.</itunes:summary>
+      <description>GitLab&#39;s VP of Product, Job van der Voort, joins Matt for a frank discussion on GitLab&#39;s open company culture, the history of the project, and some of the challenges and benefits of working &#34;in the open&#34;.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode059.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode059.mp3</guid>
+      <link>/gitlab/</link>
+      <pubDate>Thu, 10 Mar 2016 00:45:40 -0500 </pubDate>
+      <itunes:duration>59:16</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Open Your Stack With JJ Asghar - ADO58</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>JJ Asghar joins us to help school Matt about what is going on in the OpenStack world</itunes:summary>
+      <description>JJ Asghar joins us to help school Matt about what is going on in the OpenStack world</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode058.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode058.mp3</guid>
+      <link>/openstack/</link>
+      <pubDate>Thu, 25 Feb 2016 22:09:46 -0600 </pubDate>
+      <itunes:duration>40:27</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Vendors: Frenemies Or Friends? With Michael Ducy Of The Goat Farm - ADO57</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Arrested DevOps teams up with The Goat Farm (http://goatcan.do) to talk about the ways that sales folks, solution architects, and other vendor roles can help be a partner to your organization and not just a necessary evil</itunes:summary>
+      <description>Arrested DevOps teams up with The Goat Farm (http://goatcan.do) to talk about the ways that sales folks, solution architects, and other vendor roles can help be a partner to your organization and not just a necessary evil</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode057.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode057.mp3</guid>
+      <link>/vendors/</link>
+      <pubDate>Thu, 11 Feb 2016 19:54:25 -0600 </pubDate>
+      <itunes:duration>1:03:43</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Chocolatey Goodness With Rob Reynolds - ADO56</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Rob Reynolds, creator of the popular Windows packaging tool Chocolatey, joins Trevor for a discussion on the future of the project, as well as some historical details on the journey so far.</itunes:summary>
+      <description>Rob Reynolds, creator of the popular Windows packaging tool Chocolatey, joins Trevor for a discussion on the future of the project, as well as some historical details on the journey so far.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode056.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode056.mp3</guid>
+      <link>/chocolatey/</link>
+      <pubDate>Sat, 30 Jan 2016 09:25:47 -0600 </pubDate>
+      <itunes:duration>53:44</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Open Source With Phil Dibowitz - ADO55</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt is joined by Facebook Production Engineer Phil Dibowitz to talk about the state of Open Source today, the changes it has gone through in his career, as well as some of the best ways to get started in the world of Open Source.</itunes:summary>
+      <description>Matt is joined by Facebook Production Engineer Phil Dibowitz to talk about the state of Open Source today, the changes it has gone through in his career, as well as some of the best ways to get started in the world of Open Source.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode055.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode055.mp3</guid>
+      <link>/open-source/</link>
+      <pubDate>Wed, 20 Jan 2016 17:56:53 -0600 </pubDate>
+      <itunes:duration>32:55</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Platforms With Kelsey Hightower And Andrew Clay Shafer - ADO54</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>If you build, deploy, and operate software in production, you have a platform. Andrew Clay Shafer and Kelsey Hightower discuss different choices available in the platform space, from unstructured to structured with all the considerations along the road to operational maturity.</itunes:summary>
+      <description>If you build, deploy, and operate software in production, you have a platform. Andrew Clay Shafer and Kelsey Hightower discuss different choices available in the platform space, from unstructured to structured with all the considerations along the road to operational maturity.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode054.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode054.mp3</guid>
+      <link>/platforms/</link>
+      <pubDate>Wed, 13 Jan 2016 12:09:26 -0600 </pubDate>
+      <itunes:duration>01:02:11</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>2015 In Review - ADO53</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>We’ve made it through two years of ADO! It seems like only yesterday that we recorded our first year-end episode (which you can listen to at arresteddevops.com/27). And we’re back again to talk about what 2015 was for us, in the world of DevOps, and the world of ADO. Plus, Matt and Bridget wax nostalgic about cable management from when we managed data centers.</itunes:summary>
+      <description>We’ve made it through two years of ADO! It seems like only yesterday that we recorded our first year-end episode (which you can listen to at arresteddevops.com/27). And we’re back again to talk about what 2015 was for us, in the world of DevOps, and the world of ADO. Plus, Matt and Bridget wax nostalgic about cable management from when we managed data centers.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode053.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode053.mp3</guid>
+      <link>/2015-in-review/</link>
+      <pubDate>Thu, 31 Dec 2015 13:18:51 -0800 </pubDate>
+      <itunes:duration>1:08:22</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Measurement And Sharing With Nicole Forsgren - ADO52</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Chef&#39;s Dr. Nicole Forsgren has a frank talk with Matt about the often neglected portions of CAMS theory - Measurement and Sharing. She gives real-world, practical tips on how to use data to drive a transformation...and even how culture can be measured.</itunes:summary>
+      <description>Chef&#39;s Dr. Nicole Forsgren has a frank talk with Matt about the often neglected portions of CAMS theory - Measurement and Sharing. She gives real-world, practical tips on how to use data to drive a transformation...and even how culture can be measured.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode052.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode052.mp3</guid>
+      <link>/measurement-and-sharing/</link>
+      <pubDate>Tue, 15 Dec 2015 11:20:55 -0600 </pubDate>
+      <itunes:duration>42:52</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOpsDays 2015 Year In Review With John Willis - ADO51</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>DevOpsDays Core Organizer John Willis drops by to talk with the crew about some of the challenges (and fun) of organizing a DevOpsDays event. We also discuss the history of DevOpsDays, and share some fun war stories.</itunes:summary>
+      <description>DevOpsDays Core Organizer John Willis drops by to talk with the crew about some of the challenges (and fun) of organizing a DevOpsDays event. We also discuss the history of DevOpsDays, and share some fun war stories.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode051.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode051.mp3</guid>
+      <link>/devopsdays-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 11:15:59 -0800 </pubDate>
+      <itunes:duration>1:09:35</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Switching Teams: From Linux To Windows And Windows To Linux - ADO50</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>What are some of the gotcha&#39;s that exist when switching operating systems? Trevor talks with Matthew Walter about the differences that exist and their own challenges as they&#39;ve started their journeys into new operating systems.</itunes:summary>
+      <description>What are some of the gotcha&#39;s that exist when switching operating systems? Trevor talks with Matthew Walter about the differences that exist and their own challenges as they&#39;ve started their journeys into new operating systems.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode050.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode050.mp3</guid>
+      <link>/os-switching/</link>
+      <pubDate>Mon, 30 Nov 2015 03:58:51 -0600 </pubDate>
+      <itunes:duration>42:46</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>What Is New At Puppet? With Eric Sorenson - ADO49</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Special guest Eric Sorenson of Puppet Labs chats with Matt about all the new hotness with Puppet, including Application Orchestration. Plus, Matt and Eric put on their pundit hats and talk about the acquisition of Ansible by Red Hat.</itunes:summary>
+      <description>Special guest Eric Sorenson of Puppet Labs chats with Matt about all the new hotness with Puppet, including Application Orchestration. Plus, Matt and Eric put on their pundit hats and talk about the acquisition of Ansible by Red Hat.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode049.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode049.mp3</guid>
+      <link>/puppet/</link>
+      <pubDate>Wed, 25 Nov 2015 08:12:13 -0600 </pubDate>
+      <itunes:duration>56:44</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Test Driven Infrastructure With Arthur Maltson And Michael Goetz - ADO48</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Testing your infrastructure code is critical. But exactly HOW do you go about doing this? Matt talks with Arthur Maltson and Michael Goetz about using tools such as Test Kitchen, Chef Audit Mode, InSpec, and Chef Compliance to help you build confidence in your infracode.</itunes:summary>
+      <description>Testing your infrastructure code is critical. But exactly HOW do you go about doing this? Matt talks with Arthur Maltson and Michael Goetz about using tools such as Test Kitchen, Chef Audit Mode, InSpec, and Chef Compliance to help you build confidence in your infracode.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode048.mp3" length="" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode048.mp3</guid>
+      <link>/tdi/</link>
+      <pubDate>Thu, 19 Nov 2015 01:27:31 -0600 </pubDate>
+      <itunes:duration>58:23</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Tis The Season...For Scaling! With Rob Cummings And Matt Curry - ADO47</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Holiday! It’s a time of merriment… and terror. Let’s talk about how to prepare for a known spike in traffic, and what’s worked (and hasn’t)!</itunes:summary>
+      <description>Holiday! It’s a time of merriment… and terror. Let’s talk about how to prepare for a known spike in traffic, and what’s worked (and hasn’t)!</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode047.mp3" length="52743372" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode047.mp3</guid>
+      <link>/seasonal-scaling/</link>
+      <pubDate>Fri, 13 Nov 2015 15:51:25 -0600 </pubDate>
+      <itunes:duration>01:02:44</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>ITIL Eye For The DevOps Folks With Steven Boyd - ADO46</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>What&#39;s this ITIL thing all about? How can it complement DevOps? Can&#39;t we all just get along? Special guest Steven Boyd joins us to discuss how ITIL can help an organization, and help correct some misconceptions about what ITIL is (and is not).</itunes:summary>
+      <description>What&#39;s this ITIL thing all about? How can it complement DevOps? Can&#39;t we all just get along? Special guest Steven Boyd joins us to discuss how ITIL can help an organization, and help correct some misconceptions about what ITIL is (and is not).</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode046.mp3" length="46137344" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode046.mp3</guid>
+      <link>/itil/</link>
+      <pubDate>Fri, 30 Oct 2015 21:24:02 -0600 </pubDate>
+      <itunes:duration>54:53</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Creating DevOps Communities And Events With Andy Burgin, Dustin Collins, And Nathen Harvey - ADO45</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Andy Burgin, Dustin Collins, and Nathen Harvey join Matt and Trevor to talk about what it takes to create DevOps events, Meetups, and communities.</itunes:summary>
+      <description>Andy Burgin, Dustin Collins, and Nathen Harvey join Matt and Trevor to talk about what it takes to create DevOps events, Meetups, and communities.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode045.mp3" length="54735668" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode045.mp3</guid>
+      <link>/communities/</link>
+      <pubDate>Wed, 14 Oct 2015 09:32:23 -0700 </pubDate>
+      <itunes:duration>01:05:09</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Infrastructure As Code With Joshua Timberman, Eric Sorenson, And Robyn Bergeron - ADO44</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>What does &#34;infrastructure as code&#34; actually mean? How is it different from configuration management? Special guests Joshua Timberman (Chef), Eric Sorenson (Puppet Labs), and Robyn Bergeron (Ansible) talk with Matt and Trevor about this very topic.</itunes:summary>
+      <description>What does &#34;infrastructure as code&#34; actually mean? How is it different from configuration management? Special guests Joshua Timberman (Chef), Eric Sorenson (Puppet Labs), and Robyn Bergeron (Ansible) talk with Matt and Trevor about this very topic.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode044.mp3" length="52282002" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode044.mp3</guid>
+      <link>/infrastructure-as-code/</link>
+      <pubDate>Thu, 01 Oct 2015 08:31:42 -0500 </pubDate>
+      <itunes:duration>1:02:14</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Cognitive Neuroscience With Courtney Nash &amp; Lindsay Holmwood - ADO43</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Trevor and Bridget chat with Courtney Nash (O&#39;Reilly Media) and Lindsay Holmwood (Australian Government Digital Transformation Office) about cognitive neuroscience. We&#39;ll talk about recognizing cognitive fallacies, the psychology of alert design, how to make your conference proposals their most appealing, and about empathy from a scientific point of view.</itunes:summary>
+      <description>Trevor and Bridget chat with Courtney Nash (O&#39;Reilly Media) and Lindsay Holmwood (Australian Government Digital Transformation Office) about cognitive neuroscience. We&#39;ll talk about recognizing cognitive fallacies, the psychology of alert design, how to make your conference proposals their most appealing, and about empathy from a scientific point of view.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode043.mp3" length="54882208" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode043.mp3</guid>
+      <link>/brains/</link>
+      <pubDate>Wed, 23 Sep 2015 01:22:18 -0500 </pubDate>
+      <itunes:duration>01:05:20</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder - ADO42</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt &amp; Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps.</itunes:summary>
+      <description>Matt &amp; Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode042.mp3" length="39090204" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode042.mp3</guid>
+      <link>/chatops/</link>
+      <pubDate>Thu, 10 Sep 2015 13:00:13 -0500 </pubDate>
+      <itunes:duration>46:32</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Podcast Me Maybe With Kyle Kingsbury - ADO41</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt, Trevor, and Bridget chat with Kyle Kingsbury (Stripe) about his research on failure in distributed systems.</itunes:summary>
+      <description>Matt, Trevor, and Bridget chat with Kyle Kingsbury (Stripe) about his research on failure in distributed systems.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode041.mp3" length="50151771" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode041.mp3</guid>
+      <link>/podcast-me-maybe/</link>
+      <pubDate>Sat, 15 Aug 2015 09:37:51 -0500 </pubDate>
+      <itunes:duration>59:42</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Building An Ops Team With Charity Majors, Patrick McDonnell, And MCR - ADO40</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Bridget and Trevor are joined by Charity Majors (Facebook), as well as Mike Rembetsy and Patrick McDonnell (Etsy) for a frank discussion on what goes into building a great ops team.</itunes:summary>
+      <description>Bridget and Trevor are joined by Charity Majors (Facebook), as well as Mike Rembetsy and Patrick McDonnell (Etsy) for a frank discussion on what goes into building a great ops team.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode040.mp3" length="48946230" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode040.mp3</guid>
+      <link>/building-an-ops-team/</link>
+      <pubDate>Wed, 29 Jul 2015 10:31:20 -0500 </pubDate>
+      <itunes:duration>58:16</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Eating Sushi With Andrew Clay Shafer - ADO39</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt and Bridget sit down with Andrew Clay Shafer (finally!) at DevOpsDays Minneapolis to discuss his thoughts on what&#39;s going on with the DevOps world since 2009, as well as his opinions on podcasts having episode numbers. Sadly, no sushi was actually consumed.</itunes:summary>
+      <description>Matt and Bridget sit down with Andrew Clay Shafer (finally!) at DevOpsDays Minneapolis to discuss his thoughts on what&#39;s going on with the DevOps world since 2009, as well as his opinions on podcasts having episode numbers. Sadly, no sushi was actually consumed.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode039.mp3" length="34589773" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode039.mp3</guid>
+      <link>/eating-sushi-with-andrew-clay-shafer/</link>
+      <pubDate>Fri, 17 Jul 2015 22:28:34 -0500 </pubDate>
+      <itunes:duration>41:11</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Career Devops With Jeff Hackert - ADO38</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>In this episode, Jeff Hackert discusses developing your career in DevOps.</itunes:summary>
+      <description>In this episode, Jeff Hackert discusses developing your career in DevOps.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode038.mp3" length="56170864" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode038.mp3</guid>
+      <link>/career-devops/</link>
+      <pubDate>Thu, 25 Jun 2015 12:38:23 -0500 </pubDate>
+      <itunes:duration>1:06:52</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Disasters! - ADO37</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>In this episode, Stephanie Van Dyk and Mark Imbriaco discuss how to communicate and how to recover in the event of complete disasters.</itunes:summary>
+      <description>In this episode, Stephanie Van Dyk and Mark Imbriaco discuss how to communicate and how to recover in the event of complete disasters.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode037.mp3" length="50064172" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode037.mp3</guid>
+      <link>/disasters/</link>
+      <pubDate>Thu, 28 May 2015 22:23:56 -0500 </pubDate>
+      <itunes:duration>59:36</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Dr. BOFH, Or How I Learned To Stop Worrying And Love The DevOps - ADO36</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>In this episode, &#39;reformed&#39; Bastard Operators From Hell Yvo van Doorn, Chris Read, and Kevin Hubbard discuss how the industry and their jobs have changed over time, especially with the advent of DevOps.</itunes:summary>
+      <description>In this episode, &#39;reformed&#39; Bastard Operators From Hell Yvo van Doorn, Chris Read, and Kevin Hubbard discuss how the industry and their jobs have changed over time, especially with the advent of DevOps.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode036.mp3" length="55009467" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode036.mp3</guid>
+      <link>/reformed-bofh/</link>
+      <pubDate>Thu, 14 May 2015 21:58:42 -0500 </pubDate>
+      <itunes:duration>1:05:29</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOps And Marketing - ADO35</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Marketing departments are often told, &#39;Don&#39;t use the term DevOps incorrectly!&#39;&#39; But exactly HOW should our marketing peers use that term? How can we effectively talk about DevOps in the marketing space? Shannon Smith from 10th Magnitude and Jason Hand from VictorOps joined us to discuss this heated topic.</itunes:summary>
+      <description>Marketing departments are often told, &#39;Don&#39;t use the term DevOps incorrectly!&#39;&#39; But exactly HOW should our marketing peers use that term? How can we effectively talk about DevOps in the marketing space? Shannon Smith from 10th Magnitude and Jason Hand from VictorOps joined us to discuss this heated topic.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode035.mp3" length="58634033" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode035.mp3</guid>
+      <link>/devops-and-marketing/</link>
+      <pubDate>Wed, 29 Apr 2015 21:48:23 -0500 </pubDate>
+      <itunes:duration>1:09:48</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>What&#39;S New At Chef? - ADO34</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Recorded live at ChefConf 2015, we sat down with Julian Dunn, Seth Falcon, and Adam Edwards of Chef Software to talk about all the cool new things that Chef is cooking up - including Chef Delivery, Chef Analytics, and new awesome things with Chef itself!</itunes:summary>
+      <description>Recorded live at ChefConf 2015, we sat down with Julian Dunn, Seth Falcon, and Adam Edwards of Chef Software to talk about all the cool new things that Chef is cooking up - including Chef Delivery, Chef Analytics, and new awesome things with Chef itself!</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode034.mp3" length="36511606" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode034.mp3</guid>
+      <link>/chefconf-2015/</link>
+      <pubDate>Thu, 16 Apr 2015 21:44:54 -0500 </pubDate>
+      <itunes:duration>43:28</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOps Culture Change With Bill Joy - ADO33</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>DevOps revolves a lot around what an organization and culture should look like. We talk about it on just about every episode of this podcast. Something we tend to skate around though is the how. How do you change the culture of an organization?</itunes:summary>
+      <description>DevOps revolves a lot around what an organization and culture should look like. We talk about it on just about every episode of this podcast. Something we tend to skate around though is the how. How do you change the culture of an organization?</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode033.mp3" length="53877921" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode033.mp3</guid>
+      <link>/devops-culture-change/</link>
+      <pubDate>Tue, 31 Mar 2015 21:34:20 -0500 </pubDate>
+      <itunes:duration>1:04:08</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Starting A New Devops Job - ADO32</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Starting any new job can be a mix of fun, excitement, and nervousness. But what about when you&#39;re coming into a DevOps-oriented organization? What are some of the special challenges entering a collaborative, &#39;blameless&#39; place of work? Katherine Daniels and Jake Champlin join us to discuss their recent experiences of starting at some pretty exciting workplaces.</itunes:summary>
+      <description>Starting any new job can be a mix of fun, excitement, and nervousness. But what about when you&#39;re coming into a DevOps-oriented organization? What are some of the special challenges entering a collaborative, &#39;blameless&#39; place of work? Katherine Daniels and Jake Champlin join us to discuss their recent experiences of starting at some pretty exciting workplaces.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode032.mp3" length="46342020" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode032.mp3</guid>
+      <link>/starting-a-new-devops-job/</link>
+      <pubDate>Fri, 13 Mar 2015 21:28:13 -0500 </pubDate>
+      <itunes:duration>55:10</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Docker! Docker! Docker! - ADO31</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>James Turnbull has traveled the world speaking about Docker, and now he&#39;s here to tell ADO all about it. The tech, the company, and the community: James has opinions and was more than willing to share them!</itunes:summary>
+      <description>James Turnbull has traveled the world speaking about Docker, and now he&#39;s here to tell ADO all about it. The tech, the company, and the community: James has opinions and was more than willing to share them!</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode031.mp3" length="49926016" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode031.mp3</guid>
+      <link>/docker/</link>
+      <pubDate>Thu, 26 Feb 2015 20:52:19 -0500 </pubDate>
+      <itunes:duration>59:26</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOps In A Microsoft World With Jessica DeVita And Jeffrey Snover - ADO30</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Is DevOps just for the open source world? Can you do DevOps in a Microsoft shop? What are some of the tools and capabilities available for Windows, Azure, and .NET professionals who want to approach work in a DevOps model? Microsoft DevOps Evangelist Jessica DeVita and Jeffrey Snover, a Distinguished Engineer at Microsoft and the Lead Architect for the Windows Server and System Center Division, talk with the ADO crew about how Microsoft approaches DevOps.</itunes:summary>
+      <description>Is DevOps just for the open source world? Can you do DevOps in a Microsoft shop? What are some of the tools and capabilities available for Windows, Azure, and .NET professionals who want to approach work in a DevOps model? Microsoft DevOps Evangelist Jessica DeVita and Jeffrey Snover, a Distinguished Engineer at Microsoft and the Lead Architect for the Windows Server and System Center Division, talk with the ADO crew about how Microsoft approaches DevOps.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode030.mp3" length="67118984" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode030.mp3</guid>
+      <link>/microsoft-devops/</link>
+      <pubDate>Thu, 12 Feb 2015 21:21:05 -0500 </pubDate>
+      <itunes:duration>1:19:54</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Hiring In A Post-DevOps World - ADO29</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>At DevOpsDays Ghent in 2014, it was joked that we are living in a &#39;post-DevOps world&#39;. What are the challenges in hiring for DevOps related jobs? We be talked with panelists on all sides of the table - recruiting, hiring, and also just some rabble-rousing about why you should stop looking for &#39;ninjas&#39; and &#39;rockstars&#39;. Digital Ocean&#39;s Jill Jubinski, Datadog&#39;s Mike Fiedler, and rabble-rouser Josh Hertz joined Matt and Trevor to weigh in on a this complicated topic.</itunes:summary>
+      <description>At DevOpsDays Ghent in 2014, it was joked that we are living in a &#39;post-DevOps world&#39;. What are the challenges in hiring for DevOps related jobs? We be talked with panelists on all sides of the table - recruiting, hiring, and also just some rabble-rousing about why you should stop looking for &#39;ninjas&#39; and &#39;rockstars&#39;. Digital Ocean&#39;s Jill Jubinski, Datadog&#39;s Mike Fiedler, and rabble-rouser Josh Hertz joined Matt and Trevor to weigh in on a this complicated topic.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode029.mp3" length="54190648" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode029.mp3</guid>
+      <link>/hiring-for-devops/</link>
+      <pubDate>Thu, 22 Jan 2015 20:47:29 -0500 </pubDate>
+      <itunes:duration>56:27</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Incidents And Accidents: Examining Failure Without Blame - ADO28</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Dave Zwieback, VP of Engineering at Next Big Sound and Mike Rembetsy, VP of Technical Operations at Etsy discuss learning from the unexpected and examining failure without blame. With practical tips about technical tools and philosophical insights into the human factors and cognitive biases in play, these industry experts offer useful guidance for the thorny questions around the topic of failure.</itunes:summary>
+      <description>Dave Zwieback, VP of Engineering at Next Big Sound and Mike Rembetsy, VP of Technical Operations at Etsy discuss learning from the unexpected and examining failure without blame. With practical tips about technical tools and philosophical insights into the human factors and cognitive biases in play, these industry experts offer useful guidance for the thorny questions around the topic of failure.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode028.mp3" length="60357210" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode028.mp3</guid>
+      <link>/blameless/</link>
+      <pubDate>Thu, 15 Jan 2015 20:43:37 -0500 </pubDate>
+      <itunes:duration>1:02:52</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>A Year Of ADO - ADO27</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>It’s been a year of ADO, with topics from CI to security, panels of devs and of ops, and even Pete Cheslock. For the last episode of the year, we thought it would be fun to revisit Matt and Trevor chatting, sans guests - which hasn&#39;t happened since the first episode!</itunes:summary>
+      <description>It’s been a year of ADO, with topics from CI to security, panels of devs and of ops, and even Pete Cheslock. For the last episode of the year, we thought it would be fun to revisit Matt and Trevor chatting, sans guests - which hasn&#39;t happened since the first episode!</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode027.mp3" length="61714065" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode027.mp3</guid>
+      <link>/a-year-of-ado/</link>
+      <pubDate>Wed, 31 Dec 2014 19:47:02 -0500 </pubDate>
+      <itunes:duration>1:13:28</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>The Database: The Elephant In The Room - ADO26</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Data - we can’t have applications or services without it. If software is eating the world, then data is the maitre’d. However, it can be challenging to incorporate database design and release into the world of continuous delivery and devops. Grant Fritchey and Jonathan Hickford of Redgate join Matt and Trevor for a discussion of DevOps and Databases.</itunes:summary>
+      <description>Data - we can’t have applications or services without it. If software is eating the world, then data is the maitre’d. However, it can be challenging to incorporate database design and release into the world of continuous delivery and devops. Grant Fritchey and Jonathan Hickford of Redgate join Matt and Trevor for a discussion of DevOps and Databases.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode026.mp3" length="50822778" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode026.mp3</guid>
+      <link>/continuous-delivery-database/</link>
+      <pubDate>Mon, 08 Dec 2014 19:43:19 -0500 </pubDate>
+      <itunes:duration>1:00:30</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOps In The Enterprise - ADO25</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>DevOps isn&#39;t just for startups - in fact, that argument can be made that it&#39;s even MORE important for large, enterprise-scale companies than for anyone else. What does it mean to &#39;do DevOps&#39; in an enterprise? Is there a different flavor of DevOps for enterprise companies? Does CAMS work at scale? Michael Ducy (CHEF Software), Ross Clanton (Target), and Steve Pereira join Matt, Trevor, and Bridget (wat?) to finally tackle this tricky topic.</itunes:summary>
+      <description>DevOps isn&#39;t just for startups - in fact, that argument can be made that it&#39;s even MORE important for large, enterprise-scale companies than for anyone else. What does it mean to &#39;do DevOps&#39; in an enterprise? Is there a different flavor of DevOps for enterprise companies? Does CAMS work at scale? Michael Ducy (CHEF Software), Ross Clanton (Target), and Steve Pereira join Matt, Trevor, and Bridget (wat?) to finally tackle this tricky topic.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode025.mp3" length="67235758" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode025.mp3</guid>
+      <link>/enterprise-devops/</link>
+      <pubDate>Tue, 18 Nov 2014 19:38:22 -0500 </pubDate>
+      <itunes:duration>46:41</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Git 101 With Emma Jane Westby - ADO24</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>One of the reasons that DevOps can be transformative to an organization is that it shortens feedback loops - talking about CAMS, the measurement piece is where that can come into play. Anyway, in that spirit, we’re taking feedback we’ve gotten from listeners who want more detailed, technical topics, and we have an episode talking about the HOW with git - with a very special guest, Emma Jane Westby.</itunes:summary>
+      <description>One of the reasons that DevOps can be transformative to an organization is that it shortens feedback loops - talking about CAMS, the measurement piece is where that can come into play. Anyway, in that spirit, we’re taking feedback we’ve gotten from listeners who want more detailed, technical topics, and we have an episode talking about the HOW with git - with a very special guest, Emma Jane Westby.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode024.mp3" length="55976575" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode024.mp3</guid>
+      <link>/git-101/</link>
+      <pubDate>Wed, 12 Nov 2014 19:34:05 -0500 </pubDate>
+      <itunes:duration>58:19</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Managing Systems In The Cloud - ADO23</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Tom Limoncelli, one of the authors of _The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems_ talks with Matt and Trevor (but mostly Trevor) about the challenges of modern system management.</itunes:summary>
+      <description>Tom Limoncelli, one of the authors of _The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems_ talks with Matt and Trevor (but mostly Trevor) about the challenges of modern system management.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode023.mp3" length="47376210" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode023.mp3</guid>
+      <link>/managing-systems-in-the-cloud/</link>
+      <pubDate>Tue, 14 Oct 2014 19:21:18 -0500 </pubDate>
+      <itunes:duration>49:21</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Devopsdays Chicago - ADO22</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Recorded on Day 2 of DevOpsDays Chicago. Matt and Trevor are joined by a panel of attendees and organizers to talk about their experiences at the first ever DevOpsDays to take place in the Windy City. #deepdishdevops for everyone!</itunes:summary>
+      <description>Recorded on Day 2 of DevOpsDays Chicago. Matt and Trevor are joined by a panel of attendees and organizers to talk about their experiences at the first ever DevOpsDays to take place in the Windy City. #deepdishdevops for everyone!</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode022.mp3" length="56464322" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode022.mp3</guid>
+      <link>/devopsdays-chicago/</link>
+      <pubDate>Wed, 08 Oct 2014 19:17:09 -0500 </pubDate>
+      <itunes:duration>39:13</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Conference Love - ADO21</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Conferences - some people are addicted, and others have never been. What is the point of conferences? What&#39;s an unconference? Why shouldn&#39;t I just stay home and watch the livestreams? Jason Dixon (Monitorama), Bridget Kromhout (devopsdays Minneapolis), and Pete Cheslock (devopsdays Boston) give their two cents (and more) about why conferences are the place to be.</itunes:summary>
+      <description>Conferences - some people are addicted, and others have never been. What is the point of conferences? What&#39;s an unconference? Why shouldn&#39;t I just stay home and watch the livestreams? Jason Dixon (Monitorama), Bridget Kromhout (devopsdays Minneapolis), and Pete Cheslock (devopsdays Boston) give their two cents (and more) about why conferences are the place to be.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode021.mp3" length="54889043" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode021.mp3</guid>
+      <link>/devops-conferences/</link>
+      <pubDate>Tue, 23 Sep 2014 19:10:23 -0500 </pubDate>
+      <itunes:duration>57:11</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Something About Security With Ben Hughes - ADO20</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>When we talk about DevOps, often times we focus only on the two disciplines that feature in the name - Development and Operations. But DevOps, truly, is about collaboration across all areas of the business, even those security blokes. Ben Hughes, Security Manager at Etsy, joins the ADO crew to review how to work WITH your security teams, and show that they&#39;re not really scary at all.</itunes:summary>
+      <description>When we talk about DevOps, often times we focus only on the two disciplines that feature in the name - Development and Operations. But DevOps, truly, is about collaboration across all areas of the business, even those security blokes. Ben Hughes, Security Manager at Etsy, joins the ADO crew to review how to work WITH your security teams, and show that they&#39;re not really scary at all.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode020.mp3" length="53962437" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode020.mp3</guid>
+      <link>/devops-security/</link>
+      <pubDate>Tue, 09 Sep 2014 18:26:31 -0500 </pubDate>
+      <itunes:duration>56:13</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Dev To Ops - ADO19</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>What does the journey from a background based in Development and moving to an Ops role feel like?</itunes:summary>
+      <description>What does the journey from a background based in Development and moving to an Ops role feel like?</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode019.mp3" length="49920758" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode019.mp3</guid>
+      <link>/dev-to-ops/</link>
+      <pubDate>Thu, 28 Aug 2014 18:17:34 -0500 </pubDate>
+      <itunes:duration>52:00</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>The Sysadmin Show - ADO18</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Way back in Episode 3, we had a &#39;Dev focused&#39; show. It&#39;s about time to show some sysadmin love.</itunes:summary>
+      <description>Way back in Episode 3, we had a &#39;Dev focused&#39; show. It&#39;s about time to show some sysadmin love.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode018.mp3" length="62732447" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode018.mp3</guid>
+      <link>/sysadmins/</link>
+      <pubDate>Wed, 20 Aug 2014 18:09:40 -0500 </pubDate>
+      <itunes:duration>1:05:21</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Help! I Need Somebody - ADO17</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt and Trevor are joined by Dave Gerding, as well as first ever repeat panelist Sasha Rosenbaum, to talk about how to ask for help - and how to get the best help possible with your problems and questions. There&#39;s no shame in your game when you need some assistance!</itunes:summary>
+      <description>Matt and Trevor are joined by Dave Gerding, as well as first ever repeat panelist Sasha Rosenbaum, to talk about how to ask for help - and how to get the best help possible with your problems and questions. There&#39;s no shame in your game when you need some assistance!</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode017.mp3" length="49094463" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode017.mp3</guid>
+      <link>/get-help/</link>
+      <pubDate>Mon, 04 Aug 2014 18:06:38 -0500 </pubDate>
+      <itunes:duration>51:08</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOpsDays Minneapolis - ADO16</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt was joined by guest co-host Julian Dunn, as well as some awesome panelists for an on-site recording of ADO at the very first DevOpsDays Minneapolis!</itunes:summary>
+      <description>Matt was joined by guest co-host Julian Dunn, as well as some awesome panelists for an on-site recording of ADO at the very first DevOpsDays Minneapolis!</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode016.mp3" length="57885173" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode016.mp3</guid>
+      <link>/devopsdays-minneapolis/</link>
+      <pubDate>Fri, 18 Jul 2014 12:40:35 -0500 </pubDate>
+      <itunes:duration>48:14</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Continuous Delivery - ADO15</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>One of the most commonly associated principles with DevOps is that of Continuous Delivery. Continuing (ha ha) upon our previous episode on Continuous Integration, Jez Humble talks about what CD is, how it can help your organization, and how he&#39;s seen the world of DevOps change since the first publication of the Continuous Delivery book.</itunes:summary>
+      <description>One of the most commonly associated principles with DevOps is that of Continuous Delivery. Continuing (ha ha) upon our previous episode on Continuous Integration, Jez Humble talks about what CD is, how it can help your organization, and how he&#39;s seen the world of DevOps change since the first publication of the Continuous Delivery book.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode015.mp3" length="48755930" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode015.mp3</guid>
+      <link>/continuous-delivery/</link>
+      <pubDate>Tue, 15 Jul 2014 12:33:16 -0500 </pubDate>
+      <itunes:duration>50:47</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>How To Eff Up Devops - ADO14</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>DevOps &#39;Thought Leaders&#39; Pete Cheslock, Nathen Harvey, and Randi Harper help us understand all the things you can do wrong when &#39;doing the DevOps&#39;.</itunes:summary>
+      <description>DevOps &#39;Thought Leaders&#39; Pete Cheslock, Nathen Harvey, and Randi Harper help us understand all the things you can do wrong when &#39;doing the DevOps&#39;.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode014.mp3" length="57069959" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode014.mp3</guid>
+      <link>/how-to-eff-up-devops/</link>
+      <pubDate>Mon, 07 Jul 2014 12:27:03 -0500 </pubDate>
+      <itunes:duration>59:27</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Software Deployment - ADO13</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>&#39;It doesn&#39;t count until it&#39;s in production.&#39;&#39; How can organizations level-up at delivering software and features to their customers? What are some of the good practices that DevOps can bring to your company? Matt and Trevor are joined by Ranjib Dey, system administrator at PagerDuty, to talk about &#39;shipping that software.&#39;</itunes:summary>
+      <description>&#39;It doesn&#39;t count until it&#39;s in production.&#39;&#39; How can organizations level-up at delivering software and features to their customers? What are some of the good practices that DevOps can bring to your company? Matt and Trevor are joined by Ranjib Dey, system administrator at PagerDuty, to talk about &#39;shipping that software.&#39;</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode013.mp3" length="44516568" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode013.mp3</guid>
+      <link>/software-deployment/</link>
+      <pubDate>Mon, 23 Jun 2014 12:23:24 -0500 </pubDate>
+      <itunes:duration>46:22</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Making The DevOps Transition - ADO12</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt and Trevor are joined by Jeanne Steinback (Rewards Network) and Chris A (MacArthur Foundation) to chat about their real-world experiences in bringing an organization through a DevOps transition.</itunes:summary>
+      <description>Matt and Trevor are joined by Jeanne Steinback (Rewards Network) and Chris A (MacArthur Foundation) to chat about their real-world experiences in bringing an organization through a DevOps transition.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode012.mp3" length="43011910" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode012.mp3</guid>
+      <link>/implementing-devops/</link>
+      <pubDate>Wed, 11 Jun 2014 12:19:38 -0500 </pubDate>
+      <itunes:duration>44:48</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOps At Etsy: Not A Unicorn, Just A Sparkly Horse - ADO11</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>The engineering team at Etsy are considered by many to be industry leaders when it comes to automation, software delivery, and general DevOps awesomeness. We will be joined by Senior Operations Engineer Jon Cowie (and others) to give an overview of how Etsy does their DevOps magic, and what we can learn from their example.</itunes:summary>
+      <description>The engineering team at Etsy are considered by many to be industry leaders when it comes to automation, software delivery, and general DevOps awesomeness. We will be joined by Senior Operations Engineer Jon Cowie (and others) to give an overview of how Etsy does their DevOps magic, and what we can learn from their example.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode011.mp3" length="69235899" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode011.mp3</guid>
+      <link>/devops-at-etsy/</link>
+      <pubDate>Wed, 21 May 2014 12:16:50 -0500 </pubDate>
+      <itunes:duration>57:42</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Scaling The Application Mountains - ADO10</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>In today&#39;s world of web-scale IT, the ability to respond quickly to increased demand and traffic on your critical applications is an essential component of success. Scaling experts Steven Corona and Igor Papirov join Matt and Trevor to talk about why scaling matters, some good practices to keep in mind, and other tips and tricks for success in the dynamic world of modern applications.</itunes:summary>
+      <description>In today&#39;s world of web-scale IT, the ability to respond quickly to increased demand and traffic on your critical applications is an essential component of success. Scaling experts Steven Corona and Igor Papirov join Matt and Trevor to talk about why scaling matters, some good practices to keep in mind, and other tips and tricks for success in the dynamic world of modern applications.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode010.mp3" length="61325499" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode010.mp3</guid>
+      <link>/cloud-scaling/</link>
+      <pubDate>Thu, 08 May 2014 12:13:44 -0500 </pubDate>
+      <itunes:duration>51:06</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Fast And Furious: Configuration Drift - ADO9</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>One of the key technologies to help automate your DevOps environment is Configuration Management. There&#39;s a lot of chatter around what exactly this means, and how you can use it. Special panel guests Sean OMeara, Chris Webber, and Steven Murawksi join Matt and Trevor to talk about how Config Management can make your systems and stack more stable, predictable, and more fun to manage.</itunes:summary>
+      <description>One of the key technologies to help automate your DevOps environment is Configuration Management. There&#39;s a lot of chatter around what exactly this means, and how you can use it. Special panel guests Sean OMeara, Chris Webber, and Steven Murawksi join Matt and Trevor to talk about how Config Management can make your systems and stack more stable, predictable, and more fun to manage.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode009.mp3" length="78495263" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode009.mp3</guid>
+      <link>/configuration-management/</link>
+      <pubDate>Sat, 29 Mar 2014 12:10:10 -0500 </pubDate>
+      <itunes:duration>1:05:25</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Managing Your Mental Stack - ADO8</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>It&#39;s information overload these days - how can a technology professional manage to keep up with everything that is new and exciting in the world of DevOps? What are the best methods for absorbing content and developing skills? Just how useful are podcasts, anyway? Matt, Trevor, and special guest Sasha Rosenbaum discuss these topics and their own personal strategies and challenges with keeping their brains from segfaulting.</itunes:summary>
+      <description>It&#39;s information overload these days - how can a technology professional manage to keep up with everything that is new and exciting in the world of DevOps? What are the best methods for absorbing content and developing skills? Just how useful are podcasts, anyway? Matt, Trevor, and special guest Sasha Rosenbaum discuss these topics and their own personal strategies and challenges with keeping their brains from segfaulting.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode008.mp3" length="74165205" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode008.mp3</guid>
+      <link>/managing-your-mental-stack/</link>
+      <pubDate>Tue, 11 Mar 2014 08:54:32 -0500 </pubDate>
+      <itunes:duration>1:01:48</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>All Together Now - ADO7</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Angela Dugan of Polaris Solutions and Todd Vernon, CEO &amp; co-founder of VictorOps, join the ADO crew to chat about the challenges of collaborating in a cross-functional team. How can tools help facilitate communication among developers, testers, and operations? What are some of the best practices to keep in mind? And, of course, there just might be some &#34;horror stories&#34; of communication gone horribly wrong.</itunes:summary>
+      <description>Angela Dugan of Polaris Solutions and Todd Vernon, CEO &amp; co-founder of VictorOps, join the ADO crew to chat about the challenges of collaborating in a cross-functional team. How can tools help facilitate communication among developers, testers, and operations? What are some of the best practices to keep in mind? And, of course, there just might be some &#34;horror stories&#34; of communication gone horribly wrong.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode007.mp3" length="72491801" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode007.mp3</guid>
+      <link>/all-together-now/</link>
+      <pubDate>Sun, 23 Feb 2014 09:57:34 -0500 </pubDate>
+      <itunes:duration>1:00:24</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>DevOps Mythbusters - ADO6</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>On this episode of Arrested DevOps Matt and Trevor are  joined by some of the finest minds in DevOps podcastery - Damon Edwards of DevOps Cafe and Sascha Bates of The Ship Show. The panel addresses some common beliefs on DevOps, and whether these beliefs are true...or just MYTHS.</itunes:summary>
+      <description>On this episode of Arrested DevOps Matt and Trevor are  joined by some of the finest minds in DevOps podcastery - Damon Edwards of DevOps Cafe and Sascha Bates of The Ship Show. The panel addresses some common beliefs on DevOps, and whether these beliefs are true...or just MYTHS.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode006.mp3" length="126781303" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode006.mp3</guid>
+      <link>/devops-mythbusters/</link>
+      <pubDate>Mon, 10 Feb 2014 09:56:24 -0500 </pubDate>
+      <itunes:duration>1:06:02</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Continuous Integration – CI Told You So! - ADO5</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>A frank discussion of Continuous Integration</itunes:summary>
+      <description>A frank discussion of Continuous Integration</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode005.mp3" length="91212140" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode005.mp3</guid>
+      <link>/continuous-integration/</link>
+      <pubDate>Wed, 29 Jan 2014 09:54:57 -0500 </pubDate>
+      <itunes:duration>47:30</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Agile And Devops - ADO4</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>How do Agile and DevOps relate?</itunes:summary>
+      <description>How do Agile and DevOps relate?</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode004.mp3" length="118724721" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode004.mp3</guid>
+      <link>/agile-and-devops/</link>
+      <pubDate>Fri, 03 Jan 2014 09:52:25 -0500 </pubDate>
+      <itunes:duration>1:01:50</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>The Dev Show - ADO3</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>DevOps from a developer perspective</itunes:summary>
+      <description>DevOps from a developer perspective</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode003.mp3" length="107281835" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode003.mp3</guid>
+      <link>/the-dev-show/</link>
+      <pubDate>Thu, 02 Jan 2014 09:47:19 -0500 </pubDate>
+      <itunes:duration>55:53</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>Does Testing Keep You From Making A Huge Mistake? - ADO2</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>What role does testing play in DevOps?</itunes:summary>
+      <description>What role does testing play in DevOps?</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode002.mp3" length="129279863" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode002.mp3</guid>
+      <link>/does-testing-keep-you-from-making-a-huge-mistake/</link>
+      <pubDate>Mon, 16 Dec 2013 09:45:16 -0500 </pubDate>
+      <itunes:duration>1:07:20</itunes:duration>
+      
+    </item>
+    
+    <item>
+      <title>What Is DevOps? - ADO1</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary>Matt and Trevor talk about the reason for Arrested DevOps, the format of the show (sort of), and then &#39;what does DevOps mean?&#39;&#39; Then somehow the topic devolves into open floorspaces and Matt puts his foot in his mouth a few times.</itunes:summary>
+      <description>Matt and Trevor talk about the reason for Arrested DevOps, the format of the show (sort of), and then &#39;what does DevOps mean?&#39;&#39; Then somehow the topic devolves into open floorspaces and Matt puts his foot in his mouth a few times.</description>
+      <enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode001.mp3" length="71810475" type="audio/x-m4a" />
+      <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode001.mp3</guid>
+      <link>/what-is-devops/</link>
+      <pubDate>Thu, 05 Dec 2013 20:52:00 -0500 </pubDate>
+      <itunes:duration>37:24</itunes:duration>
+      
+    </item>
+    
+  </channel>
+</rss>

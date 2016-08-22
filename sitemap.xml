@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2016-08-01T07:55:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/application-configuration/</loc>
+    <lastmod>2016-08-01T07:55:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devopsdays-minneapolis-2016/</loc>
+    <lastmod>2016-07-30T07:55:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chefconf-2016/</loc>
+    <lastmod>2016-07-26T20:55:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/career-ops/</loc>
+    <lastmod>2016-07-14T13:34:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/finding-signal-in-the-noise/</loc>
+    <lastmod>2016-06-05T13:36:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devopsdays-toronto-2016/</loc>
+    <lastmod>2016-05-28T13:36:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/containers-security/</loc>
+    <lastmod>2016-05-12T18:16:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/speaking/</loc>
+    <lastmod>2016-04-16T17:14:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/availability/</loc>
+    <lastmod>2016-03-25T15:47:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal-brand/</loc>
+    <lastmod>2016-03-23T00:45:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gitlab/</loc>
+    <lastmod>2016-03-10T00:45:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/openstack/</loc>
+    <lastmod>2016-02-25T22:09:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/vendors/</loc>
+    <lastmod>2016-02-11T19:54:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/faq/</loc>
+    <lastmod>2016-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chocolatey/</loc>
+    <lastmod>2016-01-30T09:25:47-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/open-source/</loc>
+    <lastmod>2016-01-20T17:56:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/platforms/</loc>
+    <lastmod>2016-01-13T12:09:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015-in-review/</loc>
+    <lastmod>2015-12-31T13:18:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/measurement-and-sharing/</loc>
+    <lastmod>2015-12-15T11:20:55-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devopsdays-2015/</loc>
+    <lastmod>2015-12-01T11:15:59-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/os-switching/</loc>
+    <lastmod>2015-11-30T03:58:51-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/puppet/</loc>
+    <lastmod>2015-11-25T08:12:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tdi/</loc>
+    <lastmod>2015-11-19T01:27:31-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/seasonal-scaling/</loc>
+    <lastmod>2015-11-13T15:51:25-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/itil/</loc>
+    <lastmod>2015-10-30T21:24:02-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/communities/</loc>
+    <lastmod>2015-10-14T09:32:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/copyright/</loc>
+    <lastmod>2015-10-09T23:04:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cfp/</loc>
+    <lastmod>2015-10-09T21:20:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/books/</loc>
+    <lastmod>2015-10-09T21:20:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/</loc>
+    <lastmod>2015-10-09T21:20:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/conf</loc>
+    <lastmod>2015-10-09T09:03:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/host/trevor/</loc>
+    <lastmod>2015-10-07T23:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/host/bridget/</loc>
+    <lastmod>2015-10-07T23:50:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/host/matt/</loc>
+    <lastmod>2015-10-07T23:50:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gpm</loc>
+    <lastmod>2015-10-05T12:14:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/itunes</loc>
+    <lastmod>2015-10-05T12:14:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bananastand</loc>
+    <lastmod>2015-10-05T12:10:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mailinglist</loc>
+    <lastmod>2015-10-05T12:10:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/codeship</loc>
+    <lastmod>2015-10-05T12:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/victorops</loc>
+    <lastmod>2015-10-05T12:08:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trueability</loc>
+    <lastmod>2015-10-05T12:08:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/redgate</loc>
+    <lastmod>2015-10-05T12:07:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/10thmagnitude</loc>
+    <lastmod>2015-10-05T12:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tenthmagnitude</loc>
+    <lastmod>2015-10-05T12:06:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/xm</loc>
+    <lastmod>2015-10-05T12:06:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sponsorschedule</loc>
+    <lastmod>2015-10-05T12:05:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/iphone</loc>
+    <lastmod>2015-10-05T12:05:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stackexchange</loc>
+    <lastmod>2015-10-05T12:04:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/loggly</loc>
+    <lastmod>2015-10-05T12:03:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lpage</loc>
+    <lastmod>2015-10-05T12:02:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/guestform</loc>
+    <lastmod>2015-10-05T12:01:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/infrastructure-as-code/</loc>
+    <lastmod>2015-10-01T08:31:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/matt</loc>
+    <lastmod>2015-09-28T09:41:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/brains/</loc>
+    <lastmod>2015-09-23T01:22:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/subscribe/</loc>
+    <lastmod>2015-09-22T00:37:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/10thmagnitude</loc>
+    <lastmod>2015-09-18T11:11:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/datadog</loc>
+    <lastmod>2015-09-18T11:11:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pagerduty</loc>
+    <lastmod>2015-09-18T11:11:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2015-09-17T20:19:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/podcasts/</loc>
+    <lastmod>2015-09-17T19:20:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chatops/</loc>
+    <lastmod>2015-09-10T13:00:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/second/</loc>
+    <lastmod>2015-09-01T22:10:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first/</loc>
+    <lastmod>2015-09-01T22:10:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/podcast-me-maybe/</loc>
+    <lastmod>2015-08-15T09:37:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/building-an-ops-team/</loc>
+    <lastmod>2015-07-29T10:31:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/eating-sushi-with-andrew-clay-shafer/</loc>
+    <lastmod>2015-07-17T22:28:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/career-devops/</loc>
+    <lastmod>2015-06-25T12:38:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/disasters/</loc>
+    <lastmod>2015-05-28T22:23:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/reformed-bofh/</loc>
+    <lastmod>2015-05-14T21:58:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devops-and-marketing/</loc>
+    <lastmod>2015-04-29T21:48:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chefconf-2015/</loc>
+    <lastmod>2015-04-16T21:44:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devops-culture-change/</loc>
+    <lastmod>2015-03-31T21:34:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/starting-a-new-devops-job/</loc>
+    <lastmod>2015-03-13T21:28:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docker/</loc>
+    <lastmod>2015-02-26T20:52:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microsoft-devops/</loc>
+    <lastmod>2015-02-12T21:21:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hiring-for-devops/</loc>
+    <lastmod>2015-01-22T20:47:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blameless/</loc>
+    <lastmod>2015-01-15T20:43:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/a-year-of-ado/</loc>
+    <lastmod>2014-12-31T19:47:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/continuous-delivery-database/</loc>
+    <lastmod>2014-12-08T19:43:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/enterprise-devops/</loc>
+    <lastmod>2014-11-18T19:38:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/git-101/</loc>
+    <lastmod>2014-11-12T19:34:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/managing-systems-in-the-cloud/</loc>
+    <lastmod>2014-10-14T19:21:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devopsdays-chicago/</loc>
+    <lastmod>2014-10-08T19:17:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devops-conferences/</loc>
+    <lastmod>2014-09-23T19:10:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devops-security/</loc>
+    <lastmod>2014-09-09T18:26:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dev-to-ops/</loc>
+    <lastmod>2014-08-28T18:17:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sysadmins/</loc>
+    <lastmod>2014-08-20T18:09:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/get-help/</loc>
+    <lastmod>2014-08-04T18:06:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devopsdays-minneapolis/</loc>
+    <lastmod>2014-07-18T12:40:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/continuous-delivery/</loc>
+    <lastmod>2014-07-15T12:33:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/how-to-eff-up-devops/</loc>
+    <lastmod>2014-07-07T12:27:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software-deployment/</loc>
+    <lastmod>2014-06-23T12:23:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/implementing-devops/</loc>
+    <lastmod>2014-06-11T12:19:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devops-at-etsy/</loc>
+    <lastmod>2014-05-21T12:16:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cloud-scaling/</loc>
+    <lastmod>2014-05-08T12:13:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/configuration-management/</loc>
+    <lastmod>2014-03-29T12:10:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/managing-your-mental-stack/</loc>
+    <lastmod>2014-03-11T08:54:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/all-together-now/</loc>
+    <lastmod>2014-02-23T09:57:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/devops-mythbusters/</loc>
+    <lastmod>2014-02-10T09:56:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/continuous-integration/</loc>
+    <lastmod>2014-01-29T09:54:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agile-and-devops/</loc>
+    <lastmod>2014-01-03T09:52:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/the-dev-show/</loc>
+    <lastmod>2014-01-02T09:47:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/does-testing-keep-you-from-making-a-huge-mistake/</loc>
+    <lastmod>2013-12-16T09:45:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/what-is-devops/</loc>
+    <lastmod>2013-12-05T20:52:00-05:00</lastmod>
+  </url>
+  
+</urlset>
